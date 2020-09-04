@@ -93,6 +93,20 @@ A guide to start from scratch with Azure Governance
 7. [Tutorial: Optimize costs from recommendations](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-opt-recommendations)
 8. [Predict costs and optimize spending for Azure (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/)
 
+## Azure Resource Graph
+1. [What is Azure Resource Graph?](https://docs.microsoft.com/en-us/azure/governance/resource-graph/overview)
+2. [Azure Resource Graph Explorer](https://docs.microsoft.com/en-us/azure/governance/resource-graph/first-query-portal)
+3. [Tutorial: Create and share an Azure Resource Graph query in the Azure portal](https://docs.microsoft.com/en-us/azure/governance/resource-graph/tutorials/create-share-query)
+4. [Starter Resource Graph query samples](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/starter?tabs=azure-cli)
+5. [Advanced Resource Graph query samples](https://docs.microsoft.com/en-us/azure/governance/resource-graph/samples/advanced?tabs=azure-cli)
+6. [Understanding the Azure Resource Graph query language](https://docs.microsoft.com/en-us/azure/governance/resource-graph/concepts/query-language)
+7. [Explore your Azure resources with Resource Graph](https://docs.microsoft.com/en-us/azure/governance/resource-graph/concepts/explore-resources)
+8. [Azure Resource Graph security baseline for Azure Security Benchmark](https://docs.microsoft.com/en-us/azure/governance/resource-graph/concepts/azure-security-benchmark-baseline)
+9. [Get resource changes](https://docs.microsoft.com/en-us/azure/governance/resource-graph/how-to/get-resource-changes)
+
+
+
+
 
 
 
