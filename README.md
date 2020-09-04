@@ -66,6 +66,34 @@ A guide to start from scratch with Azure Governance
 2. [Use resource locks to protect resources (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/6-use-resource-locks-to-protect-resources)
 3. [Tutorial: Create a lock from Azure Portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources#portal)
 
+## Azure Blueprints
+1. [What is Azure Blueprints?](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
+2. [Blueprint definitions](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview#blueprint-definition)
+3. [Define standard resources with Azure Blueprints (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/5-azure-blueprints)
+4. [Tutorial: Define and assign a blueprint in the portal](https://docs.microsoft.com/en-us/azure/governance/blueprints/create-blueprint-portal)
+
+## Azure Service Health
+1. [What is Azure Service Health?](https://docs.microsoft.com/en-us/azure/service-health/overview)
+2. [View service health notifications by using the Azure portal](https://docs.microsoft.com/en-us/azure/service-health/service-notifications)
+3. [Tutorial: Create activity log alerts on service notifications](https://docs.microsoft.com/en-us/azure/service-health/alerts-activity-log-service-notifications-portal)
+
+## Azure Advisor
+1. [Monitoring and reporting in Azure (CAF)](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/monitoring-reporting)
+2. [Introduction to Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-overview)
+3. [Get started with Azure Advisor](https://docs.microsoft.com/en-us/azure/advisor/advisor-get-started)
+4. [Tutorial: Create Azure Advisor alerts on new recommendations](https://docs.microsoft.com/en-us/azure/advisor/advisor-alerts-portal)
+
+## Azure Cost Management
+1. [Manage costs and billing for your Azure resources](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/manage-costs)
+2. [What is Azure Cost Management and Billing?](https://docs.microsoft.com/en-us/azure/cost-management-billing/cost-management-billing-overview)
+3. [How to optimize your cloud investment with Azure Cost Management](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/cost-mgt-best-practices)
+4. [Quickstart: Explore and analyze costs with cost analysis](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/quick-acm-cost-analysis)
+5. [Tutorial: Create and manage Azure budgets](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-create-budgets)
+6. [Tutorial: Create and manage exported data](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-export-acm-data)
+7. [Tutorial: Optimize costs from recommendations](https://docs.microsoft.com/en-us/azure/cost-management-billing/costs/tutorial-acm-opt-recommendations)
+8. [Predict costs and optimize spending for Azure (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/predict-costs-and-optimize-spending/)
+
+
 
 
 
