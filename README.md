@@ -30,7 +30,7 @@ A guide to start from scratch with Azure Governance
 3. [Tutorial: Create an additional Azure subscription](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription)
 4. [Associate or add an Azure subscription to you AAD Tenant](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
 5. Organize subscriptions and resources
-5.1. Management Groups
+5.1. Management Groups<br/>
 5.1.1. [Organize subscriptions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)
 5.1.2. [Organize your Azure Resources (CAF)](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?tabs=AzureManagementGroupsAndHierarchy)
 5.1.3. [Management Groups](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
