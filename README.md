@@ -44,3 +44,28 @@ A guide to start from scratch with Azure Governance
 5.4. **Tags**<br/>
 5.4.1. [Use tags to organize your Azure resources ](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/tag-resources#portal)<br/>
 5.4.2. [Use tagging to organize resources (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/3-use-tagging-to-organize-resources)<br/>
+
+## Role Based Access Control
+1. [What is RBAC](https://docs.microsoft.com/en-us/azure/role-based-access-control/overview)
+2. [Manage access to your Azure environment with role-based access controls](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/manage-access)
+3. [Role-based access control](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/roles)
+4. [Secure resources with RBAC](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/5-role-based-access)
+5. [Tutorial: Add or remove role assignments using Azure RBAC and the Azure portal](https://docs.microsoft.com/en-us/azure/role-based-access-control/role-assignments-portal)
+6. [Differences on RBAC Roles and Azure AD Roles](https://docs.microsoft.com/en-us/azure/role-based-access-control/rbac-and-directory-admin-roles)
+
+## Azure Policy
+1. [What is Azure Policy](https://docs.microsoft.com/en-us/azure/governance/policy/overview)
+2. [Governance, security and compliance in Azure](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/govern-org-compliance?tabs=AzurePolicy)
+3. [Define IT compliance with Azure Policy (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/2-azure-policy)
+4. [Organize policy with initiatives (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/intro-to-governance/3-initiatives)
+5. [Use policies to enforce standards (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/4-use-policies-to-enforce-standards)
+6. [Tutorial: Create a policy assignment to identify non-compliant resources](https://docs.microsoft.com/en-us/azure/governance/policy/assign-policy-portal)
+
+## Resource Locks
+1. [Lock resources to prevent unexpected changes](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources)
+2. [Use resource locks to protect resources (MS Learn)](https://docs.microsoft.com/en-us/learn/modules/control-and-organize-with-azure-resource-manager/6-use-resource-locks-to-protect-resources)
+3. [Tutorial: Create a lock from Azure Portal](https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/lock-resources#portal)
+
+
+
+
