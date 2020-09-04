@@ -10,6 +10,6 @@ A guide to start from scratch with Azure Governance
 5. [Subscription decision guides](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/subscriptions/)
 6. [Azure adminsitrative roles](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/fundamental-concepts#azure-administrative-roles)
 7. Azure Monitoring and Security on Governance:<br>
-7.1 [Azure Monitor Overview](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)
+7.1 [Azure Monitor Overview](https://docs.microsoft.com/en-us/azure/azure-monitor/overview)<br>
 7.2. [Azure Security Center Intro](https://docs.microsoft.com/en-us/azure/security-center/security-center-intro)
 8. [Microsoft Learn: Azure Fundamentals Learning Path](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)
