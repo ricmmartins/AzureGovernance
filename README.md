@@ -104,6 +104,8 @@ A guide to start from scratch with Azure Governance
 8. [Azure Resource Graph security baseline for Azure Security Benchmark](https://docs.microsoft.com/en-us/azure/governance/resource-graph/concepts/azure-security-benchmark-baseline)
 9. [Get resource changes](https://docs.microsoft.com/en-us/azure/governance/resource-graph/how-to/get-resource-changes)
 
+### Outcomes
+One you finish a learning over those topics, you will be ready to deploy Azure Governance with confidence. So after this, I strongly recommend you take a look into AzGovViz, a tool created by Julian Hayward to give to you a visualization from environment governance. See more at: [https://github.com/julianhayward/azure-mg-sub-governance-reporting](https://github.com/julianhayward/azure-mg-sub-governance-reporting)
 
 
 
