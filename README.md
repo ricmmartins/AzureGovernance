@@ -29,12 +29,12 @@ A guide to start from scratch with Azure Governance
 2. [Scale subscriptions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/scale-subscriptions)
 3. [Tutorial: Create an additional Azure subscription](https://docs.microsoft.com/en-us/azure/cost-management-billing/manage/create-subscription)
 4. [Associate or add an Azure subscription to you AAD Tenant](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/active-directory-how-subscriptions-associated-directory)
-5. Organize subscriptions and resources
+5. Organize subscriptions and resources<br/>
 5.1. Management Groups<br/>
-5.1.1. [Organize subscriptions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)
-5.1.2. [Organize your Azure Resources (CAF)](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?tabs=AzureManagementGroupsAndHierarchy)
-5.1.3. [Management Groups](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)
-5.1.4. [Tutorial: Create management groups for resource organization and management](https://docs.microsoft.com/en-us/azure/governance/management-groups/create-management-group-portal)
+5.1.1. [Organize subscriptions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/organize-subscriptions)<br/>
+5.1.2. [Organize your Azure Resources (CAF)](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources?tabs=AzureManagementGroupsAndHierarchy)<br/>
+5.1.3. [Management Groups](https://docs.microsoft.com/en-us/azure/governance/management-groups/overview)<br/>
+5.1.4. [Tutorial: Create management groups for resource organization and management](https://docs.microsoft.com/en-us/azure/governance/management-groups/create-management-group-portal)<br/>
 5.2. Naming Conventions
 5.2.1. [Recommended naming and tagging conventions](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-best-practices/naming-and-tagging)
 5.2.2. [Resource naming and tagging decision guide](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/decision-guides/resource-tagging/)
